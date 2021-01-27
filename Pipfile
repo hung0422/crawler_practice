@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"requests"="2.25.0"
+"bs4"="0.0.1"
+"pymysql"="0.10.1"
+"selenium"="3.141.0"
+"python-dotenv"="0.15.0"
+[dev-packages]
+
+[requires]
+python_version = "3.7"
